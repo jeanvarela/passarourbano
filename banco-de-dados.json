@@ -213,6 +213,20 @@
       "complemento": "",
       "formaPagamento": "dinheiro",
       "id": 4
+    },
+    {
+      "endereco": "Rua candiuva",
+      "numero": "13",
+      "complemento": null,
+      "formaPagamento": "dinheiro",
+      "id": 5
+    },
+    {
+      "endereco": "Rua 1",
+      "numero": "12",
+      "complemento": null,
+      "formaPagamento": "dinheiro",
+      "id": 6
     }
   ]
 }
