@@ -15,7 +15,6 @@ export class OfertaService {
 
 
     constructor(private http: HttpClient){
-
     }
 
     public getOfertas(): Promise<Oferta[]> {
